@@ -96,8 +96,6 @@ ML-powered disease diagnosis system featuring:
   <img src="https://raw.githubusercontent.com/lillyem/lillyem/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<br> 
-
 
 # 📫 Connect With Me
 
